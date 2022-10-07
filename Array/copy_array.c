@@ -1,3 +1,4 @@
+
 #include<stdio.h>
 void copy(int *a,int *b);
 int main()
